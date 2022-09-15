@@ -1,0 +1,11 @@
+[package]
+name = "v1_hello_do_not_use_pedromsluz"
+version = "0.1.0"
+edition = "2021"
+keywords = ["do", "not", "use"]
+description = "do not use this crate it is for demo purposes only"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
